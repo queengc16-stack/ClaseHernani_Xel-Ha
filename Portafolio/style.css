@@ -1,0 +1,21 @@
+body{
+    background-color: #fbff;
+    color: blueviolet;
+    font-size: 70px;
+     }
+p{color: #b64d36;}
+
+h1{color: #b64613;}
+div{
+    background-color: #da6ae4;
+    padding: 70px;
+    border-style: dotted;
+    border-width: 20px;
+    border-color: black;
+    margin-left: 2160px;
+    margin-right: 2130px;
+    border-radius: 50%;
+    }
+img{
+ border-radius: 50%;
+}
