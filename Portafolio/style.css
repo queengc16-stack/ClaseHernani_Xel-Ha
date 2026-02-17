@@ -1,21 +1,27 @@
 body{
-    background-color: #fbff;
-    color: blueviolet;
-    font-size: 70px;
+    background-color: #d3f4f7;
+    color: rgb(19, 27, 104);
+    font-size: 30px;
      }
 p{color: #b64d36;}
 
 h1{color: #b64613;}
+
 div{
-    background-color: #da6ae4;
-    padding: 70px;
+    background-color: #641515;
+    padding: 0px;
+    padding-left: 0%;
     border-style: dotted;
-    border-width: 20px;
-    border-color: black;
-    margin-left: 2160px;
-    margin-right: 2130px;
-    border-radius: 50%;
+    border-width: 5px;
+    border-color: rgb(56, 1, 1);
+    margin-left: 100px;
+    margin-right: 100px;
     }
-img{
- border-radius: 50%;
+
+.foto¨{
+    background-color: #b64613;
+    border-style: none;
+    margin: 20px;
+    padding: 20px;
 }
+
