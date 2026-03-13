@@ -1,4 +1,4 @@
 # UEA Tareas 
 Soy Lila Xel-Ha Galván Canchola, estudio en la Universidad Autonoma Metropolitana en la unidad Lerma, voy en segundo año, quinto trimestre y esta es mi presentación, a qué? a ustedes 
 ## Contenido 
-En este repositorio dejo las tareas y trabajos con las que aprendi a hacer lo basico en programación, es una pequeña huella de mi paso por la digitalidad donde les hablo de mi mientras espero ustedes puedas usar parte de mi codigo para hacer proyectos propios e incluso __This will also be bold__ recordarles que esto es solo el comienzo, y ustedes podrían hacer algo totalmente nuevo desde la comprensión de este lenguaje.__This will also be bold__
+En este repositorio dejo las tareas y trabajos con las que aprendí a hacer lo básico en programación, es una pequeña huella de mi paso por la digitalidad donde les hablo de mi mientras espero ustedes puedas usar parte de mi código para hacer proyectos propios e incluso __This will also be bold__ recordarles que esto es solo el comienzo, y ustedes podrían hacer algo totalmente nuevo desde la comprensión de este lenguaje.__This will also be bold__
